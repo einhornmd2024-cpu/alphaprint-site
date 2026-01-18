@@ -1,0 +1,7 @@
+body{margin:0;font-family:Arial;background:#f5f5f5}
+.header{background:#2c3e50;color:#fff;padding:15px;display:flex;justify-content:space-between}
+.menu a{color:white;margin-left:15px;text-decoration:none}
+.banner{background:#3498db;color:white;padding:40px;text-align:center}
+.content{display:flex;padding:20px}
+.block{background:white;padding:20px;margin:10px;width:50%}
+.footer{background:#2c3e50;color:white;text-align:center;padding:10px}
